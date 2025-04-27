@@ -1,0 +1,5 @@
+name: CustomHelp
+version: '1.0-SNAPSHOT'
+main: dev.skymlg.customhelp.CustomHelp
+commands:
+  help:

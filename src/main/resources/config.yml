@@ -1,0 +1,8 @@
+help-message:
+  - "&aWillkommen im Hilfe-Menü!"
+  - "&bHier sind einige nützliche Befehle:"
+  - "&e/help &7- Zeigt dieses Menü an."
+  - "&e/spawn &7- Teleportiert dich zum Spawn."
+  - "&e/home &7- Teleportiert dich zu deinem Zuhause."
+  - "&e/tpa <Spieler> &7- Sende eine Teleportanfrage."
+  - "&cViel Spaß auf dem Server!"

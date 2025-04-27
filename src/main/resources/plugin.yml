@@ -1,0 +1,5 @@
+name: CustomHelp
+version: '${project.version}'
+main: dev.skymlg.customhelp.CustomHelp
+commands:
+  help:
